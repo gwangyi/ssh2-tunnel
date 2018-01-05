@@ -1,0 +1,13 @@
+{
+  "name": "ssh2-tunnel",
+  "version": "0.1.0",
+  "description": "SSH tunneling utility for ssh2",
+  "main": "index.js",
+  "repository": "https://github.com/gwangyi/ssh2-tunnel",
+  "author": "Sungkwang Lee",
+  "license": "MIT",
+  "dependencies": {
+    "ssh2": "^0.5.5",
+    "stoppable": "^1.0.5"
+  }
+}
